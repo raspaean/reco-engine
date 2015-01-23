@@ -1,0 +1,10 @@
+com\myrefers\recoengine\core\UserBean.class
+com\myrefers\recoengine\core\CompanyBean.class
+com\myrefers\recoengine\core\RestClient.class
+com\myrefers\recoengine\core\Engine.class
+com\myrefers\recoengine\core\SkillBean.class
+com\myrefers\recoengine\core\Recommend.class
+com\myrefers\recoengine\core\SkillsBean.class
+com\myrefers\recoengine\core\Crud.class
+com\myrefers\recoengine\core\ProfileBean.class
+com\myrefers\recoengine\core\MoreLikeThis.class
